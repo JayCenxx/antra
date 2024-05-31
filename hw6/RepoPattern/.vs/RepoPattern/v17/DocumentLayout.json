@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|c:\\users\\jay c\\source\\repos\\repopattern\\repopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|solutionrelative:repopattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|c:\\users\\jay c\\source\\repos\\repopattern\\repopattern\\nameid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|solutionrelative:repopattern\\nameid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|c:\\users\\jay c\\source\\repos\\repopattern\\repopattern\\repoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|solutionrelative:repopattern\\repoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|c:\\users\\jay c\\source\\repos\\repopattern\\repopattern\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|solutionrelative:repopattern\\iid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|c:\\users\\jay c\\source\\repos\\repopattern\\repopattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F05C60E-6691-4866-B276-F959C1A675DB}|RepoPattern\\RepoPattern.csproj|solutionrelative:repopattern\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\IRepository.cs",
+              "RelativeDocumentMoniker": "RepoPattern\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\IRepository.cs",
+              "RelativeToolTip": "RepoPattern\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:51:10.377Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IID.cs",
+              "DocumentMoniker": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\IID.cs",
+              "RelativeDocumentMoniker": "RepoPattern\\IID.cs",
+              "ToolTip": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\IID.cs",
+              "RelativeToolTip": "RepoPattern\\IID.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:22:33.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepoClass.cs",
+              "DocumentMoniker": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\RepoClass.cs",
+              "RelativeDocumentMoniker": "RepoPattern\\RepoClass.cs",
+              "ToolTip": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\RepoClass.cs",
+              "RelativeToolTip": "RepoPattern\\RepoClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:06:39.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameId.cs",
+              "DocumentMoniker": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\NameId.cs",
+              "RelativeDocumentMoniker": "RepoPattern\\NameId.cs",
+              "ToolTip": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\NameId.cs",
+              "RelativeToolTip": "RepoPattern\\NameId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:48:10.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\Program.cs",
+              "RelativeDocumentMoniker": "RepoPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Jay C\\source\\repos\\RepoPattern\\RepoPattern\\Program.cs",
+              "RelativeToolTip": "RepoPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:39:31.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

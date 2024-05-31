@@ -1,0 +1,14 @@
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.AssemblyInfoInputs.cache
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.AssemblyInfo.cs
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.csproj.CoreCompileInputs.cache
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\bin\Debug\net8.0\RepoPattern.exe
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\bin\Debug\net8.0\RepoPattern.deps.json
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\bin\Debug\net8.0\RepoPattern.runtimeconfig.json
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\bin\Debug\net8.0\RepoPattern.dll
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\bin\Debug\net8.0\RepoPattern.pdb
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.dll
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\refint\RepoPattern.dll
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.pdb
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\RepoPattern.genruntimeconfig.cache
+C:\Users\Jay C\source\repos\RepoPattern\RepoPattern\obj\Debug\net8.0\ref\RepoPattern.dll
